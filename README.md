@@ -68,6 +68,9 @@ Welcome to my GitHub repository containing solutions for CS50's Introduction to 
 2. Cookie Jar
 3. CS50 Shirtificate
 
+### Week 9 - Final Project
+1. Oracle - https://github.com/Ramz-p/Oracle
+
 ## Acknowledgments
 Special thanks to CS50 and the course staff for the incredible learning experience. 🙌
 
